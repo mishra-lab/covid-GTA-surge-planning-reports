@@ -6,8 +6,8 @@ This repository contains data collected and reports created by the Mishra Modeli
 
 The `docs` folder contains PDF versions of our latest reports and parameters tables for our model.
 
-- Latest report is available [here](docs/COVID19_SurgeModelingUnityHealth_v4_Mar 27_2020_REPORT_corrected.pdf)
-- Latest parameter table is available [here](docs/Table 1 Parameters Draft March31.pdf)
+- Latest report is available [here](docs/COVID19_SurgeModelingUnityHealth_v4_Mar_27_2020_REPORT_corrected.pdf)
+- Latest parameter table is available [here](docs/Table_1_Parameters_Draft_March31.pdf)
 
 ## Data
 
